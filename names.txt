@@ -3,6 +3,5 @@ john II
 charles III
 michael IV
 franklin V
-bad code
-bad code
-bad code
+arthur VI
+tim VII
