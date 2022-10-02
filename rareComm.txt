@@ -1,0 +1,3 @@
+git push <localBranch>:<repoBranch>
+I'll use below commnad to commit the changes of notMaster to master.
+git push notMaster:master
